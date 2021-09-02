@@ -1,0 +1,96 @@
+.input-title{
+    font-weight: bold;
+    color: #3A4256;
+}
+.inputTable-input1 input{
+    width: 70%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(235, 235, 235);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input2 input{
+    width: 80%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input3 input{
+    width: 40%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input4 input{
+    width: 60%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input5 input{
+    width: 50%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input6 input{
+    width: 40%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input7 input{
+    width: 15%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input8 input{
+    width: 25%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-input9 input{
+    width: 20%;
+    height: 45px;
+    display: flex;
+    margin-top: 10px;
+    border:0.1px solid #6666664d;
+    box-shadow: 2px 2px 4px rgb(211, 211, 211);
+    outline-color: rgb(0, 207, 0);
+}
+.inputTable-btn{
+    background-image:linear-gradient(50deg,green,green,rgb(0, 201, 0));
+    border-radius: 20px;
+    color:white;
+    width: 200px;
+    font-size: 22px;
+    padding-bottom: 2px;
+    font-weight: bold;
+    border:none;
+    box-shadow:4px 5px 10px gray;
+}
